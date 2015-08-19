@@ -1,6 +1,6 @@
 /*
 My submission for challenge #228 (easy)
-https://www.reddit.com/r/dailyprogrammer/comments/3h0uki/20150814_challenge_227_hard_adjacency_matrix/?ref=share&ref_source=link
+https://www.reddit.com/r/dailyprogrammer/comments/3h9pde/20150817_challenge_228_easy_letters_in/?ref=share&ref_source=link
 */
 
 #include <string>
